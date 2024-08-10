@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lircmap>
+	<remote device="Samsung">
+		<power>KEY_POWER</power>
+		<noop>KEY_CYCLEWINDOWS</noop>
+
+		<one>KEY_1</one>
+		<two>KEY_2</two>
+		<three>KEY_3</three>
+		<four>KEY_4</four>
+		<five>KEY_5</five>
+		<six>KEY_6</six>
+		<seven>KEY_7</seven>
+		<eight>KEY_8</eight>
+		<nine>KEY_9</nine>
+		<zero>KEY_0</zero>
+
+		<teletext>KEY_TEXT</teletext>
+		<skipminus>KEY_PREVIOUS</skipminus>
+
+		<volumeplus>KEY_VOLUMEUP</volumeplus>
+		<volumeminus>KEY_VOLUMEDOWN</volumeminus>
+
+		<mute>KEY_MUTE</mute>
+		<noop>KEY_LIST</noop>
+
+		<pageplus>KEY_CHANNELUP</pageplus>
+		<pageminus>KEY_CHANNELDOWN</pageminus>
+
+		<noop>KEY_MEDIA</noop>
+		<menu>KEY_MENU</menu>
+		<guide>KEY_EPG</guide>
+
+		<noop>KEY_OPTION</noop>
+		<info>KEY_INFO</info>
+		<back>KEY_BACK</back>
+		<start>KEY_EXIT</start>
+
+		<up>KEY_UP</up>
+		<down>KEY_DOWN</down>
+		<left>KEY_LEFT</left>
+		<right>KEY_RIGHT</right>
+		<select>KEY_OK</select>
+
+		<red>KEY_RED</red>
+		<green>KEY_GREEN</green>
+		<yellow>KEY_YELLOW</yellow>
+		<blue>KEY_BLUE</blue>
+
+		<noop>KEY_HELP</noop>
+		<noop>KEY_SCREEN</noop>
+		<subtitle>KEY_SUBTITLE</subtitle>
+		<stop>KEY_STOP</stop>
+
+		<reverse>KEY_REWIND</reverse>
+		<play>KEY_PLAY</play>
+		<pause>KEY_PAUSE</pause>
+		<forward>KEY_FASTFORWARD</forward>
+	</remote>
+</lircmap>
